@@ -1,3 +1,5 @@
+```
+.cpp
 /**
 * @ProgramName: Homework-1
 * @Author: Alejandra Brambila
@@ -103,3 +105,4 @@ int main() {
     
     return 0;
 }
+```
