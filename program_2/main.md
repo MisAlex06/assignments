@@ -1,4 +1,4 @@
-```.cpp
+```
 /**
 * @ProgramName: Program-2
 * @Author: Alejandra Brambila
