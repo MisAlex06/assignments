@@ -1,3 +1,4 @@
+```.cpp
 /**
 * @ProgramName: Program-2
 * @Author: Alejandra Brambila
@@ -183,3 +184,4 @@ int main(){
 	system("Pause");
 	return 0;
 }
+```
