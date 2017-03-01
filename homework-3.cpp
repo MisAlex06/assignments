@@ -1,4 +1,4 @@
-```
+
 /**
 * @Homework: Homework-3
 * @Author: Alejandra Brambila
@@ -127,4 +127,3 @@ int main() {
 	return 0;
 	
 }
-```
