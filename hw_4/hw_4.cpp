@@ -1,4 +1,4 @@
-```
+
 /**
 * Name: Alejandra Brambila
 * @ProgramName: Binary Search
@@ -171,4 +171,3 @@ int main() {
 	
 	return 0;
 }
-```
